@@ -1,10 +1,9 @@
-[GITHUB_PROFILE_READMEadr.md](https://github.com/user-attachments/files/34247956/GITHUB_PROFILE_READMEadr.md)
 <div align="center">
 
-  <!-- Header Banner Dinámico y Minimalista -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,40:0F3B68,100:00D4B2&height=220&section=header&text=Ing.%20Adrick%20Mayorga&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Founder%20%7C%20Lead%20Cybersecurity%20%26%20Infrastructure%20Engineer%20at%20CIL%20Services&descSize=16&descAlignY=62&descColor=00D4B2" width="100%" alt="Ing. Adrick Mayorga Banner"/>
+  <!-- Header Banner Propio de Alta Resolución -->
+  <img src="./header_github.png" width="100%" alt="Ing. Adrick Mayorga Banner"/>
 
-  <br/>
+  <br/><br/>
 
   <!-- Insignias de Contacto y Estatus -->
   <a href="https://cilservices.com.mx" target="_blank">
